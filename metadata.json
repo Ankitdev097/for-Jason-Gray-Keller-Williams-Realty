@@ -1,0 +1,6 @@
+{
+  "name": "The Condo Guys | Custom AI Receptionist",
+  "description": "A custom AI Receptionist workflow prepared exclusively for Jason Gray and The Condo Guys at Keller Williams Realty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
